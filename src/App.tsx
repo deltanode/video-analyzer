@@ -125,7 +125,6 @@ export default function App() {
         {/* Empty state */}
         {!stats && !loading && !error && (
           <div className="flex flex-col items-center justify-center py-24 gap-4 text-center">
-            <div className="text-6xl opacity-20">📡</div>
             <div className="text-gray-500 text-lg">Paste a stream URL above to start analyzing</div>
             <div className="text-gray-600 text-sm max-w-md">
               Supports HLS (.m3u8), DASH (.mpd), and MP4 URLs. Extracts renditions,
