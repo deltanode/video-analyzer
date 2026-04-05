@@ -20,6 +20,14 @@ A browser-based tool to inspect and debug video streams - paste any HLS, DASH, o
 
 ### Screenshots
 
-<img src="" alt="web screenshot" style="width:600px" />
+<img src="./screenshots/screenshot1.png" alt="Video Analyzer - Overview" style="width:600px" />
 <br>
-<img src="" alt="mobile screenshot" style="width:300px" />
+<br>
+<img src="./screenshots/screenshot2.png" alt="Video Analyzer - Renditions" style="width:600px" />
+<br>
+<br>
+<img src="./screenshots/screenshot3.png" alt="Video Analyzer - Segments" style="width:600px" />
+<br>
+<br>
+<img src="./screenshots/screenshot4.png" alt="Video Analyzer - Network" style="width:600px" />
+<br>
